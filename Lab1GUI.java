@@ -53,6 +53,7 @@ import javax.swing.UIManager;
 import javax.swing.JList;
 import javax.swing.ListSelectionModel;
 import java.awt.BorderLayout;
+// c line
 
 class ImageComponent extends JComponent {
 
