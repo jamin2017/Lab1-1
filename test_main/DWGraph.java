@@ -112,6 +112,7 @@ class DWGraph {
 	
 	// 生成图像时存储基本的DOT操作语句的字符串，用于在最短路径中的作图
 	private String baseDot;
+	// b line
 	
 	/**
 	 * 处理每条传入的字符串，获取其中的单词数组，全部为小写
