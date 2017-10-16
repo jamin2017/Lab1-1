@@ -162,6 +162,7 @@ public class Lab1GUI extends JFrame {
 	private ImageViewer pathImageV;
 	
 	static private Map<Integer, File> mapImg;
+	// c line
 
 	private JLabel errorLabel;
 	private JPanel pError;

@@ -106,6 +106,7 @@ class DWGraph {
 	// 存放顶点的字典（映射），key为顶点字符串，value为顶点类（边集），
 	// 实际上是一个邻接表的形式存放图结构
 	private Map<String, Vertex> vertexs;
+	// b line
 	
 	// 读取文件时用于存取单词并保持次序的单次数组
 	private Vector<String> words;
