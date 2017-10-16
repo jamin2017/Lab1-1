@@ -166,6 +166,7 @@ public class Lab1GUI extends JFrame {
 
 	private JLabel errorLabel;
 	private JPanel pError;
+	// c line
 
 	/**
 	 * Launch the application. 主函数
